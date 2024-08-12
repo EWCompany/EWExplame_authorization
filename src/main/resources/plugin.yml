@@ -1,0 +1,6 @@
+name: Explame_authorization
+version: '${project.version}'
+main: explame_authorization.explame_authorization.Explame_authorization
+api-version: 1.16
+load: STARTUP
+authors: [ EWCompany ]
